@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomBarDemo</string>
+
+    <string name="list">List</string>
+    <string name="flight">FLIGHTS</string>
+    <string name="holiday">HOLIDAYS</string>
+    <string name="hotel">HOTEL</string>
+
+</resources>
